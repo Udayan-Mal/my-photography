@@ -1,7 +1,8 @@
 # my-photography
 
-
 Welcome to the **Udayan Mal Photography** project! This project showcases various photography works along with a beautiful, modern website to view the photos and interact with content like galleries, events, and social media links. 
+
+You can visit the live project at: [Udayan Mal Photography](https://udayan-mal.github.io/my-photography/)
 
 ## Project Overview
 The project is designed to present the photography works of **Udayan Mal** through an elegant and user-friendly interface. The site contains various features, including a sidebar menu, gallery sections, social media integration, and event tracking. It's built using **HTML**, **CSS**, and **FontAwesome** icons.
